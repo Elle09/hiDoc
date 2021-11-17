@@ -32,7 +32,7 @@ SECRET_KEY = os.getenv('DJANGO_SECRET_KEY','7dc78680cb79224be7f28270e4e176240e73
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [os.getenv('DEV_HOST'), os.getenv('PRODUCTION_HOST')]
+ALLOWED_HOSTS = [os.getenv('DEV_HOST'), os.getenv('PRODUCTION_HOST'),'hidoctor.herokuapp.com']
 
 
 # Application definition

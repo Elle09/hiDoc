@@ -23,10 +23,10 @@ A brief tutorial about all these techniques is discussed in this [Trial.ipynb](h
 
 ### How To Run Our App Locally:
 
-- Clone the repo:
+
 
 ```
-git clone https://github.com/noobknights/askdoc
+
 ```
 
 - Make sure you have Django installed:
